@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class ApplicationSeeder implements CommandLineRunner {
-    private boolean isCreate = true;
+    private boolean isCreate = false;
     @Autowired
     UserSeeder userSeeder;
     @Autowired

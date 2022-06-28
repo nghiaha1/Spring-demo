@@ -1,8 +1,8 @@
 package com.spring.springordersecuritydemo.seeder;
 
 import com.github.javafaker.Faker;
-import com.spring.springorderdemo.entity.User;
-import com.spring.springorderdemo.repository.UserRepository;
+import com.spring.springordersecuritydemo.entity.User;
+import com.spring.springordersecuritydemo.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

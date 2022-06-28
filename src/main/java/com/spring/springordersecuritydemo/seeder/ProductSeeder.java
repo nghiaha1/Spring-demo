@@ -1,10 +1,10 @@
 package com.spring.springordersecuritydemo.seeder;
 
 import com.github.javafaker.Faker;
-import com.spring.springorderdemo.entity.Product;
-import com.spring.springorderdemo.entity.enums.ProductSimpleStatus;
-import com.spring.springorderdemo.repository.ProductRepository;
-import com.spring.springorderdemo.util.NumberUtil;
+import com.spring.springordersecuritydemo.entity.Product;
+import com.spring.springordersecuritydemo.entity.enums.ProductSimpleStatus;
+import com.spring.springordersecuritydemo.repository.ProductRepository;
+import com.spring.springordersecuritydemo.util.NumberUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

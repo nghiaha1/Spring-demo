@@ -1,6 +1,6 @@
 package com.spring.springordersecuritydemo.seeder;
 
-import com.spring.springorderdemo.entity.enums.OrderSimpleStatus;
+import com.spring.springordersecuritydemo.entity.enums.OrderSimpleStatus;
 import lombok.*;
 
 import java.time.Month;
